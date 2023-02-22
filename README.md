@@ -61,7 +61,7 @@
 
 # Testing
 
-Your shell shouuld work like this in interactive mode:
+Your shell should work like this in interactive mode:
 ```
 $ ./hsh
 ($) /bin/ls
