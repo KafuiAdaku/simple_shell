@@ -14,14 +14,14 @@
 * Use system calls only when you need to
 * Write a README with the description of your project
 
-**Output**
+# Output
 
 * Unless specified otherwise, your program must have the exact same output
   as sh (/bin/sh) as well as the exact same error output.
 * The only difference is when you print an error, the name of the
   program must be equivalent to your argv[0]
 
-**List of Allowed functions and System calls**
+# List of Allowed functions and System calls
 
 * access
 * chdir
@@ -55,7 +55,7 @@
 * wait4
 * write
 
-**Compilation**
+# Compilation
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
 
@@ -88,7 +88,7 @@ $
 
 ### Authors
 **Dennis Augustine Kafui Kofi Adaku**
-* `GitHub`: > @KafuiAdaku
+* **GitHub**: [@KafuiAdaku](https://github.com/KafuiAdaku)
 
 **Timoty Obeng Nkrumah**
-* `GitHub`: > @Papa-Obeng
+* **GitHub**: [@Papa-Obeng](https://github.com/Papa-Obeng)
